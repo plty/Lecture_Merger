@@ -1,4 +1,4 @@
-# Lecture_Merger
+# pdfgg
 Create a pdf containing specified lecture notes and its page number
 
 Usage: 
