@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Format in std input:
 # <namepdf>.pdf <pages separated by space>
 # example: 
