@@ -8,11 +8,11 @@ pdfgg.sh < input.txt
 
 Format input: 
 ```
-<namepdf>.pdf cat <page> <page> <page> <page> <...> <page>
+<namepdf>.pdf <page> <page> <page> <page> <...> <page>
 ```
 example: 
 ```
-Lecture1.pdf cat 10 12 13 40 
-Lecture2.pdf cat 1 2 3 4 5 6 7 8 9 
-Lecture3.pdf cat 10-20
+Lecture1.pdf 10 12 13 40 
+Lecture2.pdf 1 2 3 4 5 6 7 8 9 
+Lecture3.pdf 10-20
 ```
