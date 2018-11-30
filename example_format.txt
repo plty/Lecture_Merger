@@ -1,0 +1,9 @@
+CS3230Lecture1.pdf cat 17  27  28  29  35  50  53
+CS3230Lecture2.pdf cat 4  21  40  42  43
+CS3230Lecture3.pdf cat 13  47  52  53
+CS3230Lecture4.pdf cat 13 14 15 20 21 24 25 26 28 33 34 35 48 62 63 64
+CS3230Lecture6.pdf cat 12  19  30
+CS3230Lecture7.pdf cat 9  12  19  20  21  22  23  43  63  91  93  107
+CS3230Lecture8.pdf cat 4  29
+CS3230Lecture9Part1.pdf cat 3  4  5  6  9  11  18  22  25  26  34
+CS3230Lecture9Part2.pdf cat 2  7  9  11  13  20  22  24  41
