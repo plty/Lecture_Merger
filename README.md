@@ -3,7 +3,7 @@ Create a pdf containing specified lecture notes and its page number
 
 Usage: 
 ```
-pdfgg.sh < input.txt
+pdfgg < input.txt
 ```
 
 Format input: 
